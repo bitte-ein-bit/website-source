@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 533.33" width="800" height="533">
+  <defs>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fff3d7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffe7cc;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="533" fill="url(#grad3)"/>
+  <text x="400" y="52" font-family="'Space Grotesk', sans-serif" font-size="28" font-weight="700" text-anchor="middle" fill="#8b5a00" opacity="0.9">
+    Large Spreadsheets
+  </text>
+  <text x="400" y="80" font-family="'Space Grotesk', sans-serif" font-size="18" text-anchor="middle" fill="#1f2a37" opacity="0.55">
+    Wide data tables with many visible columns
+  </text>
+
+  <rect x="70" y="105" width="660" height="371.25" rx="20" fill="#fffaf1" stroke="#d49b3a" stroke-width="4"/>
+  <rect x="90" y="125" width="620" height="42" rx="10" fill="#f4c979"/>
+  <rect x="90" y="167" width="620" height="289.25" rx="0" fill="#ffffff"/>
+  <rect x="90" y="167" width="56" height="289.25" fill="#fff1cf"/>
+
+  <line x1="146" y1="125" x2="146" y2="456.25" stroke="#d9b46d" stroke-width="2"/>
+  <line x1="185" y1="125" x2="185" y2="456.25" stroke="#ecd4a0" stroke-width="1.5"/>
+  <line x1="224" y1="125" x2="224" y2="456.25" stroke="#ecd4a0" stroke-width="1.5"/>
+  <line x1="263" y1="125" x2="263" y2="456.25" stroke="#ecd4a0" stroke-width="1.5"/>
+  <line x1="302" y1="125" x2="302" y2="456.25" stroke="#ecd4a0" stroke-width="1.5"/>
+  <line x1="341" y1="125" x2="341" y2="456.25" stroke="#ecd4a0" stroke-width="1.5"/>
+  <line x1="380" y1="125" x2="380" y2="456.25" stroke="#ecd4a0" stroke-width="1.5"/>
+  <line x1="419" y1="125" x2="419" y2="456.25" stroke="#ecd4a0" stroke-width="1.5"/>
+  <line x1="458" y1="125" x2="458" y2="456.25" stroke="#ecd4a0" stroke-width="1.5"/>
+  <line x1="497" y1="125" x2="497" y2="456.25" stroke="#ecd4a0" stroke-width="1.5"/>
+  <line x1="536" y1="125" x2="536" y2="456.25" stroke="#ecd4a0" stroke-width="1.5"/>
+  <line x1="575" y1="125" x2="575" y2="456.25" stroke="#ecd4a0" stroke-width="1.5"/>
+  <line x1="614" y1="125" x2="614" y2="456.25" stroke="#ecd4a0" stroke-width="1.5"/>
+  <line x1="653" y1="125" x2="653" y2="456.25" stroke="#ecd4a0" stroke-width="1.5"/>
+
+  <line x1="90" y1="203" x2="710" y2="203" stroke="#ecd4a0" stroke-width="1.5"/>
+  <line x1="90" y1="239" x2="710" y2="239" stroke="#ecd4a0" stroke-width="1.5"/>
+  <line x1="90" y1="275" x2="710" y2="275" stroke="#ecd4a0" stroke-width="1.5"/>
+  <line x1="90" y1="311" x2="710" y2="311" stroke="#ecd4a0" stroke-width="1.5"/>
+  <line x1="90" y1="347" x2="710" y2="347" stroke="#ecd4a0" stroke-width="1.5"/>
+  <line x1="90" y1="383" x2="710" y2="383" stroke="#ecd4a0" stroke-width="1.5"/>
+  <line x1="90" y1="419" x2="710" y2="419" stroke="#ecd4a0" stroke-width="1.5"/>
+
+  <text x="118" y="151" font-family="'Space Grotesk', sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#8b5a00">#</text>
+  <text x="165" y="151" font-family="'Space Grotesk', sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#8b5a00">A</text>
+  <text x="204" y="151" font-family="'Space Grotesk', sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#8b5a00">B</text>
+  <text x="243" y="151" font-family="'Space Grotesk', sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#8b5a00">C</text>
+  <text x="282" y="151" font-family="'Space Grotesk', sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#8b5a00">D</text>
+  <text x="321" y="151" font-family="'Space Grotesk', sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#8b5a00">E</text>
+  <text x="360" y="151" font-family="'Space Grotesk', sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#8b5a00">F</text>
+  <text x="399" y="151" font-family="'Space Grotesk', sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#8b5a00">G</text>
+  <text x="438" y="151" font-family="'Space Grotesk', sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#8b5a00">H</text>
+  <text x="477" y="151" font-family="'Space Grotesk', sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#8b5a00">I</text>
+  <text x="516" y="151" font-family="'Space Grotesk', sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#8b5a00">J</text>
+  <text x="555" y="151" font-family="'Space Grotesk', sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#8b5a00">K</text>
+  <text x="594" y="151" font-family="'Space Grotesk', sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#8b5a00">L</text>
+  <text x="633" y="151" font-family="'Space Grotesk', sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#8b5a00">M</text>
+  <text x="672" y="151" font-family="'Space Grotesk', sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#8b5a00">N</text>
+
+  <text x="118" y="191" font-family="'Space Grotesk', sans-serif" font-size="13" text-anchor="middle" fill="#8b5a00">1</text>
+  <text x="118" y="227" font-family="'Space Grotesk', sans-serif" font-size="13" text-anchor="middle" fill="#8b5a00">2</text>
+  <text x="118" y="263" font-family="'Space Grotesk', sans-serif" font-size="13" text-anchor="middle" fill="#8b5a00">3</text>
+  <text x="118" y="299" font-family="'Space Grotesk', sans-serif" font-size="13" text-anchor="middle" fill="#8b5a00">4</text>
+  <text x="118" y="335" font-family="'Space Grotesk', sans-serif" font-size="13" text-anchor="middle" fill="#8b5a00">5</text>
+  <text x="118" y="371" font-family="'Space Grotesk', sans-serif" font-size="13" text-anchor="middle" fill="#8b5a00">6</text>
+  <text x="118" y="407" font-family="'Space Grotesk', sans-serif" font-size="13" text-anchor="middle" fill="#8b5a00">7</text>
+  <text x="118" y="443" font-family="'Space Grotesk', sans-serif" font-size="13" text-anchor="middle" fill="#8b5a00">8</text>
+
+  <rect x="224" y="239" width="117" height="36" fill="#ffe8aa" opacity="0.95"/>
+  <rect x="458" y="311" width="156" height="36" fill="#ffd78b" opacity="0.95"/>
+  <rect x="302" y="383" width="78" height="36" fill="#ffe8aa" opacity="0.95"/>
+
+  <text x="645" y="442" font-family="'Space Grotesk', sans-serif" font-size="16" font-weight="700" text-anchor="end" fill="#8b5a00" opacity="0.8">
+    40+ columns visible
+  </text>
+</svg>
